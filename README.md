@@ -17,7 +17,6 @@ The directory structure is as follows:
 ```
 ├── data
 │   └── conll14st-test
-│       ├── conll14st-test.ieval.xml
 │       ├── conll14st-test.m2
 │       ├── conll14st-test.tok.src
 │       └── refs
@@ -66,7 +65,7 @@ The directory structure is as follows:
 
 * Scripts to find system-level and sentence-level correlations are adapted from WMT (given in `scripts/` directory)
 
-* William's significance test was done using the code in `tools/significance-williams/` directory.
+* William's significance test was done using the code in `tools/significance-williams/` directory (originally from https://github.com/ygraham/significance-williams)
 
 #### Running
 
