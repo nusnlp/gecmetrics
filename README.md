@@ -1,6 +1,6 @@
 ## A Reassessment of Reference-Based Grammatical Error Correction Metrics
 
-If you use the data/code from this repository, please cite the following paper:
+If you use the data/code from this repository, please cite the following [paper](http://aclweb.org/anthology/C18-1231):
 ```
 @InProceedings{chollampatt2018reassessment,
   author    = {Chollampatt, Shamil and Ng, Hwee Tou},
@@ -8,8 +8,8 @@ If you use the data/code from this repository, please cite the following paper:
   booktitle = {Proceedings of the  27th International Conference on Computational Linguistics },
   month     = {August},
   year      = {2018},
-  address   = {Santa Fe, New Mexico},
-  note      = {To appear}
+  address   = {Santa Fe, New Mexico, USA},
+  url       = {http://aclweb.org/anthology/C18-1231}
 }
 ```
 
